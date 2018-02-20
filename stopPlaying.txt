@@ -1,0 +1,2 @@
+Tu as enfin fini, %username% ? Ca fait %time%, quand même !
+Alors, après %time% de jeu, tu en es où %username% ?
